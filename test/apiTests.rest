@@ -1,0 +1,21 @@
+###
+
+GET http://localhost:5000/store/inventory/
+Content-Type: application/json
+
+###
+
+GET http://localhost:5000/products/2000000001
+Content-Type: application/json
+
+
+###
+
+GET http://localhost:5000/products/
+Content-Type: application/json
+
+
+###
+
+GET http://localhost:5000/
+Content-Type: application/json
