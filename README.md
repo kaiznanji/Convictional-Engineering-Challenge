@@ -1,6 +1,7 @@
 # Convictional-Engineering-Challenge
 A backend system for convictional's engineering challenge using Node.js
 
+View convictional's challenge here: https://github.com/convictional/engineering-interview
 
 ## Introduction
 
